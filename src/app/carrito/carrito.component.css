@@ -1,0 +1,19 @@
+.svg {
+    height: 45px;
+    width: 45px;
+    padding-top: 2px;
+    margin-bottom: -2px;
+}
+.link-cart {
+    text-decoration: none;
+    background-color: black;
+    border: none;
+}
+.link-cart:hover {
+    text-decoration: none;
+    background-color: black;
+    padding: 2px;
+}
+.cartCount {
+    color: beige;
+}
